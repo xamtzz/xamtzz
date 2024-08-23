@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xamtzz from México 
-- 👀 I’m interested in sql, java, databases, ML, tech
+- 👀 I’m interested in sql, java, databases, ML, cybersecurity, Data analytics, tech
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love minecraft, lenguages like english and french and make friends 
 
