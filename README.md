@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @xamtzz from México 
-- 👀 I’m interested in sql, java, pyhton, databases, ML, cybersecurity, Data analytics, tech
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love minecraft, lenguages like english and french and make friends 
+🌟 About Me
+🐼 Passionate about machine learning and data-driven solutions.
+📊 Skilled in Python, Pandas, SQL, and Data Science workflows.
+🔒 Cisco Certified Support Technician in Cybersecurity – keeping the digital world secure.
+💻 Creating impactful projects, like improving healthcare systems through intelligent chatbots and web apps.
 
-<!---
-xamtzz/xamtzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🌐 Projects
+Educational Robotics: Promoting STEM among middle school students.
+Healthcare Web App: Streamlining appointment scheduling and medical records.
+
+I love combining creativity and tech to empower women in STEM and inspire the next wave of innovators. 💜
