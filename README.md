@@ -1,6 +1,6 @@
 🌟 About Me
 🐼 Passionate about machine learning and data-driven solutions.
-📊 Skilled in Python, Pandas, SQL, and Data Science workflows.
+📊 Skilled in Python, Java, Pandas, SQL, and Data Science workflows.
 🔒 Cisco Certified Support Technician in Cybersecurity – keeping the digital world secure.
 💻 Creating impactful projects, like improving healthcare systems through intelligent chatbots and web apps.
 
